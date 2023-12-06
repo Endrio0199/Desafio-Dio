@@ -3,7 +3,7 @@ let xp = 9056
 let nivel
 
 if (xp <= 1000){
-    nivel = "ferro";
+    nivel = "ferro"
 }else if (xp > 1001 && xp <= 2000){
     nivel = "bronze"
 }else if (xp > 2001 && xp <= 5000){
